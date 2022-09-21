@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule about /about.php
+RewriteRule publications /publications.php
+RewriteRule faq /faq.php
+RewriteRule partners /partners.php
+RewriteRule contact /contact.php
+RewriteRule terms /terms.php
+RewriteRule privacy /privacy.php
